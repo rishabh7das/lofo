@@ -146,7 +146,7 @@ nav li:first-child{
 }
 
 .t-content{
-  inline-size: 800px;
+  inline-size: 70%;
   overflow-wrap: break-word;
   hyphens: manual;
   display: block;
